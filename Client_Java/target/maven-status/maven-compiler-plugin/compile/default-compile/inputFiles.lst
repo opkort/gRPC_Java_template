@@ -1,0 +1,4 @@
+/home/oleg/prj/gRPC-example/gRPC-Client/src/main/java/org/example/App.java
+/home/oleg/prj/gRPC-example/gRPC-Client/src/main/java/org/example/Client.java
+/home/oleg/prj/gRPC-example/gRPC-Client/target/generated-sources/protobuf/java/com/example/grpc/GreetingServiceOuterClass.java
+/home/oleg/prj/gRPC-example/gRPC-Client/target/generated-sources/protobuf/grpc-java/com/example/grpc/GreetingServiceGrpc.java
